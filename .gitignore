@@ -1,6 +1,6 @@
 .DS_Store
 .env
-.idea
+.vscode
 .venv
 *.sqlite3
 *pyc
